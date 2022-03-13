@@ -1,7 +1,7 @@
-### Hello everyone! I'm Crislaine Macedo! 👋
+### Hi! I'm Crislaine Macedo! 👋
 
-- I’m currently working on finance at Voiter Bank.
-- I’m currently learning Data Science and back-end.
+- Working with finance at Voiter Bank.
+- Learning Data Science and back-end.
 
 <div align="center">
   <a href="https://github.com/crmaced">
