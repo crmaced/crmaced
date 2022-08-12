@@ -1,7 +1,7 @@
 ### Hi! I'm Crislaine Macedo! 👋
 
 - Working with finance at Voiter Bank.
-- Learning Data Science and back-end.
+- Learning back-end.
 
 <div align="center">
   <a href="https://github.com/crmaced">
