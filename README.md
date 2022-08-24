@@ -1,7 +1,9 @@
 ### Hi! I'm Crislaine Macedo! 👋
 
-- Working with finance at Voiter Bank.
-- Learning back-end.
+- I'm 25 years old.
+- Worked with accounting and finance for four years.
+- Working at Voiter Bank as system analyst.
+- Studying: C# / .Net / SQL Server / Oracle SQL
 
 <div align="center">
   <a href="https://github.com/crmaced">
