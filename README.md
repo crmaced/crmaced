@@ -1,3 +1,5 @@
+![IMG_3193](https://github.com/crmaced/crmaced/assets/100731508/7d00b421-b9a3-4e03-a550-3cadde6c3e26)
+
 ### Hi! I'm Crislaine Macedo! 👋
 
 - I'm 25 years old.
