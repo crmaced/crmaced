@@ -1,12 +1,10 @@
-![IMG_3193](https://github.com/crmaced/crmaced/assets/100731508/7d00b421-b9a3-4e03-a550-3cadde6c3e26)
-
 # Bem-vindo ao Meu Perfil do GitHub
 
 Olá! Sou Crislaine Macedo, tenho 27 anos. Este é o meu espaço no GitHub, onde compartilho projetos, contribuições para a comunidade e aprendizados da minha jornada no mundo da programação.
 
 ## Sobre Mim
 
-- 🚀 Desenvolvedora há 2 anos.
+- 🚀 Desenvolvedora há 3 anos.
 - 💻 Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Nove de Julho.
 - 📃 Graduada em Ciências Contábeis pela Universade Anhembi Morumbi.
 - 📚 Sempre em busca de aprender novas tecnologias e conceitos.
